@@ -13,7 +13,7 @@ I am looking for **2027 graduate / early-career roles in quantitative trading, q
 - **[Financial Dashboard](https://github.com/laurasalop03/financial-dashboard)** — an interactive Streamlit dashboard for market analysis: backtesting, risk metrics (VaR, Beta) and forecasting with Prophet. Python.
 - **[Applied ML and Deep Learning](https://github.com/laurasalop03/applied-ml-and-deep-learning)** — machine learning and deep learning projects covering the full workflow from data to evaluation.
 - **[Custom Language Compiler](https://github.com/laurasalop03/custom-language-compiler)** — a compiler for a custom language built with C, Flex and Bison (lexing, parsing, code generation).
-- **Bachelor thesis (in progress)** - an adaptive algorithmic trading system integrating AI and mathematical anomaly detection: time series, volatility modelling, regime-change detection, concept drift and cross-validation. Repo coming soon.
+- **Bachelor thesis (in progress)** — an adaptive algorithmic trading system integrating AI and mathematical anomaly detection: time series, volatility modelling, regime-change detection, concept drift and cross-validation. Repo coming soon.
 
 ## Skills
 - **Languages:** C++, Python, Java, C
