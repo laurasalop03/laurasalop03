@@ -22,5 +22,5 @@ I am looking for **2027 graduate / early-career roles in quantitative trading, q
 - **Tools:** Git, Streamlit, Jupyter, Linux
 
 ## Get in touch
-- LinkedIn: linkedin.com/in/laura-salas-lópez-3ba7442ba
+- LinkedIn: https://www.linkedin.com/in/laura-salas-lópez-3ba7442ba
 - Email: laurasalop@hotmail.com
