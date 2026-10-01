@@ -4,6 +4,8 @@ Double-degree student in **Computer Science and Mathematics** at the University 
 
 I am looking for **2027 graduate / early-career roles in quantitative trading, quantitative research and software engineering** across Europe (open to relocation: London, Amsterdam, Madrid and beyond). Available from July 2027.
 
+🌐 **Portfolio and notes:** https://laurasalop03.github.io
+
 ## What I work on
 - **Quantitative and financial systems:** algorithmic trading, backtesting, risk metrics, time series, volatility modelling.
 - **Machine learning and applied maths:** model building, evaluation and the theory behind it.
@@ -22,5 +24,6 @@ I am looking for **2027 graduate / early-career roles in quantitative trading, q
 - **Tools:** Git, Streamlit, Jupyter, Linux
 
 ## Get in touch
+- Portfolio: https://laurasalop03.github.io
 - LinkedIn: https://www.linkedin.com/in/laura-salas-lópez-3ba7442ba
 - Email: laurasalop@hotmail.com
