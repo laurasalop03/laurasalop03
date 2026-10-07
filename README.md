@@ -1,10 +1,10 @@
 # Hi, I'm Laura Salas López 👋
 
-Double-degree student in **Computer Science and Mathematics** at the University of Granada (graduating June 2027). Currently a **Software Engineer Intern at Amazon**. I like building things where maths, data and code meet, especially around markets and quantitative problems.
+Double-degree student in **Computer Science and Mathematics** at the University of Granada (graduating June 2027). I've worked as a **Software Engineer Intern at Amazon** for 3 months and I like building things where maths, data and code meet, especially around markets and quantitative problems.
 
 I am looking for **2027 graduate / early-career roles in quantitative trading, quantitative research and software engineering** across Europe (open to relocation: London, Amsterdam, Madrid and beyond). Available from July 2027.
 
-🌐 **Portfolio and notes:** https://laurasalop03.github.io
+🌐 **Portfolio and blog:** https://laurasalop03.github.io
 
 ## What I work on
 - **Quantitative and financial systems:** algorithmic trading, backtesting, risk metrics, time series, volatility modelling.
@@ -15,13 +15,14 @@ I am looking for **2027 graduate / early-career roles in quantitative trading, q
 - **[Financial Dashboard](https://github.com/laurasalop03/financial-dashboard)** — an interactive Streamlit dashboard for market analysis: backtesting, risk metrics (VaR, Beta) and forecasting with Prophet. Python.
 - **[Applied ML and Deep Learning](https://github.com/laurasalop03/applied-ml-and-deep-learning)** — machine learning and deep learning projects covering the full workflow from data to evaluation.
 - **[Custom Language Compiler](https://github.com/laurasalop03/custom-language-compiler)** — a compiler for a custom language built with C, Flex and Bison (lexing, parsing, code generation).
-- **Bachelor thesis (in progress)** — an adaptive algorithmic trading system integrating AI and mathematical anomaly detection: time series, volatility modelling, regime-change detection, concept drift and cross-validation. Repo coming soon.
+- **Bachelor thesis (in progress)** — an adaptive algorithmic trading system, integrating Machine Learning for the prediction and detection of regime changes: time series, volatility modelling, regime-change detection, concept drift and cross-validation. Repo coming soon.
 
 ## Skills
-- **Languages:** C++, Python, Java, C
-- **Quant / data:** time series, probability and statistics, backtesting, risk metrics, pandas, NumPy, scikit-learn
+- **Programming:** C/C++, Python, SQL
+- **Quant / Data / ML:** time series, probability and statistics, backtesting, risk metrics, pandas, NumPy, scikit-learn
 - **CS:** algorithms and data structures, compilers, optimisation, automated planning
-- **Tools:** Git, Streamlit, Jupyter, Linux
+- **Tools:** Git, Jupyter, Linux, Power BI, Excel
+- **Languages:** Spanish (native), English (C1, fluent), German (A2/B1)
 
 ## Get in touch
 - Portfolio: https://laurasalop03.github.io
